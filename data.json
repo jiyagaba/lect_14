@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Riya",
+        "email": "Riya12@gmail.com",
+        "password": "abcdef"
+    },
+    {
+        "name": "Jiya",
+        "email": "Jiya12@gmail.com",
+        "password": "abcde"
+    },
+    {
+        "id": "2535776",
+        "name": "Jiya",
+        "email": "Jiya12@gmail.com",
+        "password": "abcde"
+    },
+    {
+        "id": "2572426",
+        "name": "Jinny",
+        "email": "Jinny12@gmail.com",
+        "password": "xyze"
+    },
+    {
+        "id": "3905165",
+        "name": "Jinny",
+        "email": "Jinny12@gmail.com",
+        "password": "xyze"
+    },
+    {
+        "id": "4372335",
+        "name": "Jinny",
+        "email": "Jinny124@gmail.com",
+        "password": "xyze"
+    },
+    {
+        "id": "8233368",
+        "name": "Jinny",
+        "email": "Jinny1246@gmail.com",
+        "password": "xyze"
+    },
+    {
+        "id": "8563711",
+        "name": "kunsh",
+        "email": "kunsh1246@gmail.com",
+        "password": "xyze"
+    },
+    {
+        "id": "8812765",
+        "name": "kunsh",
+        "email": "kunsh126@gmail.com",
+        "password": "xyze"
+    }
+]
